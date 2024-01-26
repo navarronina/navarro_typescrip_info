@@ -1,0 +1,16 @@
+{
+  "e5c65a10-8da7-44b0-94c1-2ca822cf94a1": {
+    "id": "e5c65a10-8da7-44b0-94c1-2ca822cf94a1",
+    "name": "Watch",
+    "price": "2600",
+    "quantity": "70",
+    "image": "watch.jpg"
+  },
+  "a97f99e1-7e37-443a-b9ba-f54166a7b7f8": {
+    "id": "a97f99e1-7e37-443a-b9ba-f54166a7b7f8",
+    "name": "Lamp",
+    "price": "1600",
+    "quantity": "60",
+    "image": "lamp.jpg"
+  }
+}
